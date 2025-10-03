@@ -1,0 +1,2 @@
+# static-assets
+Static assets
